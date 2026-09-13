@@ -1,3 +1,6 @@
+# Project I built to learn ReactJS
+- components, useState, useEffect, files & folder structure
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
